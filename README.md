@@ -6,3 +6,6 @@ Fragment berbeda dari Activity di android studio, fragment sendiri adalah bagian
 ![Screenshot (389)](https://github.com/Agussetiaa/App_Fragment/assets/115542822/9562d664-8c90-436c-a9f7-9227fbd41cf6)
 
 # demo app
+
+https://github.com/Agussetiaa/App_Fragment/assets/115542822/5282b50c-8790-4ca6-9432-7c2437652470
+
