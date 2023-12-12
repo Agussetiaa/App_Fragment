@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru">#0000FF</color> <!-- Warna Biru -->
+    <color name="merah">#FF0000</color> <!-- Warna Merah -->
+    <color name="hijau">#00FF00</color> <!-- Warna Hijau -->
+    <color name="cream">#EEC759</color>
+</resources>
